@@ -10,6 +10,10 @@
     background-color: dimgray !important;
 }
 
+.bg-aliceblue {
+    background-color: aliceblue !important;
+}
+
 .bg-gradient-1 {
     background-color: #343a40;
     background-image: linear-gradient(to bottom, #343A51, #0D110C);
